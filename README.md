@@ -30,3 +30,7 @@ Run the app with:
 streamlit run main.py
 ```
 This will open in a new browser tab/window through `localhost`.
+
+### Credits
+
+[Python Engineer](https://www.youtube.com/watch?v=0E_31WqVzCY)
